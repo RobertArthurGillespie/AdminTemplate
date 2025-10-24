@@ -1,0 +1,2 @@
+C:\Users\Rober\source\repos\AdminTemplate\Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rober\source\repos\AdminTemplate\Client\obj\Debug\net8.0\staticwebassets.build.json

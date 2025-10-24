@@ -1,0 +1,6 @@
+wwwroot\css\app.css
+wwwroot\icon-512.png
+wwwroot\index.html
+wwwroot\manifest.json
+wwwroot\service-worker.js
+wwwroot\service-worker.published.js
