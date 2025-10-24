@@ -5,20 +5,1052 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\css\\app.css",
-      "PackagePath": "staticwebassets\\css\\app.css"
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.251dbcd2.jpg",
+      "PackagePath": "staticwebassets\\1.251dbcd2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.3d0ebcc5.jpg",
+      "PackagePath": "staticwebassets\\1.3d0ebcc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.3d23fe3c.jpg",
+      "PackagePath": "staticwebassets\\1.3d23fe3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.53654bd0.jpg",
+      "PackagePath": "staticwebassets\\1.53654bd0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.5fa825b8.jpg",
+      "PackagePath": "staticwebassets\\1.5fa825b8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.833a0255.jpg",
+      "PackagePath": "staticwebassets\\1.833a0255.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.b26ccfe5.jpg",
+      "PackagePath": "staticwebassets\\1.b26ccfe5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.c3fb7e3f.jpg",
+      "PackagePath": "staticwebassets\\1.c3fb7e3f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.cf30d0b4.jpg",
+      "PackagePath": "staticwebassets\\1.cf30d0b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.e810f372.jpg",
+      "PackagePath": "staticwebassets\\1.e810f372.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\1.fd56a39d.jpg",
+      "PackagePath": "staticwebassets\\1.fd56a39d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\10.11ef73e4.jpg",
+      "PackagePath": "staticwebassets\\10.11ef73e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\10.28cfcf3a.jpg",
+      "PackagePath": "staticwebassets\\10.28cfcf3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\10.3b9fe1e7.jpg",
+      "PackagePath": "staticwebassets\\10.3b9fe1e7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\10.4fe38f3e.jpg",
+      "PackagePath": "staticwebassets\\10.4fe38f3e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\10.b402e953.jpg",
+      "PackagePath": "staticwebassets\\10.b402e953.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\10.bcc7c153.jpg",
+      "PackagePath": "staticwebassets\\10.bcc7c153.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\11.0b8e48be.jpg",
+      "PackagePath": "staticwebassets\\11.0b8e48be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\11.2ad029f6.jpg",
+      "PackagePath": "staticwebassets\\11.2ad029f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\11.8cd3ca26.jpg",
+      "PackagePath": "staticwebassets\\11.8cd3ca26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\11.9eb23183.jpg",
+      "PackagePath": "staticwebassets\\11.9eb23183.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\11.a62da65f.jpg",
+      "PackagePath": "staticwebassets\\11.a62da65f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\11.b3e53250.jpg",
+      "PackagePath": "staticwebassets\\11.b3e53250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\12.18eb1c77.jpg",
+      "PackagePath": "staticwebassets\\12.18eb1c77.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\12.1b96ede1.jpg",
+      "PackagePath": "staticwebassets\\12.1b96ede1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\12.30e410a6.jpg",
+      "PackagePath": "staticwebassets\\12.30e410a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\12.5793f0bc.jpg",
+      "PackagePath": "staticwebassets\\12.5793f0bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\12.b15fc647.jpg",
+      "PackagePath": "staticwebassets\\12.b15fc647.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\12.bd0c91fb.jpg",
+      "PackagePath": "staticwebassets\\12.bd0c91fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\13.0139df4a.jpg",
+      "PackagePath": "staticwebassets\\13.0139df4a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\13.53cad05f.jpg",
+      "PackagePath": "staticwebassets\\13.53cad05f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\13.dda4e9dc.jpg",
+      "PackagePath": "staticwebassets\\13.dda4e9dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\13.e2f5cf47.jpg",
+      "PackagePath": "staticwebassets\\13.e2f5cf47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\14.0d1dad7a.jpg",
+      "PackagePath": "staticwebassets\\14.0d1dad7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\14.39a84c6d.jpg",
+      "PackagePath": "staticwebassets\\14.39a84c6d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\14.a07e9298.jpg",
+      "PackagePath": "staticwebassets\\14.a07e9298.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\14.ba0b3482.jpg",
+      "PackagePath": "staticwebassets\\14.ba0b3482.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\14.bcb6a828.jpg",
+      "PackagePath": "staticwebassets\\14.bcb6a828.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\15.2de525eb.jpg",
+      "PackagePath": "staticwebassets\\15.2de525eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\15.a36b1df7.jpg",
+      "PackagePath": "staticwebassets\\15.a36b1df7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\15.c2110f04.jpg",
+      "PackagePath": "staticwebassets\\15.c2110f04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\15.f2e61023.jpg",
+      "PackagePath": "staticwebassets\\15.f2e61023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\16.6fc18764.jpg",
+      "PackagePath": "staticwebassets\\16.6fc18764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\16.9a3b2dbd.jpg",
+      "PackagePath": "staticwebassets\\16.9a3b2dbd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\16.d33b0865.jpg",
+      "PackagePath": "staticwebassets\\16.d33b0865.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\16.d38d8998.jpg",
+      "PackagePath": "staticwebassets\\16.d38d8998.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\17.4d151748.jpg",
+      "PackagePath": "staticwebassets\\17.4d151748.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\17.efa55f41.jpg",
+      "PackagePath": "staticwebassets\\17.efa55f41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\18.f7ac2e43.jpg",
+      "PackagePath": "staticwebassets\\18.f7ac2e43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\18.fe8af905.jpg",
+      "PackagePath": "staticwebassets\\18.fe8af905.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\19.50e8a877.jpg",
+      "PackagePath": "staticwebassets\\19.50e8a877.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\19.a4262772.jpg",
+      "PackagePath": "staticwebassets\\19.a4262772.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.1babb604.jpg",
+      "PackagePath": "staticwebassets\\2.1babb604.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.351fcca6.jpg",
+      "PackagePath": "staticwebassets\\2.351fcca6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.5c9c5771.jpg",
+      "PackagePath": "staticwebassets\\2.5c9c5771.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.81431c15.jpg",
+      "PackagePath": "staticwebassets\\2.81431c15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.8c083a2a.jpg",
+      "PackagePath": "staticwebassets\\2.8c083a2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.96922923.jpg",
+      "PackagePath": "staticwebassets\\2.96922923.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.a5c723d3.jpg",
+      "PackagePath": "staticwebassets\\2.a5c723d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.a84ad3f6.jpg",
+      "PackagePath": "staticwebassets\\2.a84ad3f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.a8aedb99.jpg",
+      "PackagePath": "staticwebassets\\2.a8aedb99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.def2c942.jpg",
+      "PackagePath": "staticwebassets\\2.def2c942.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\2.eb0a2210.jpg",
+      "PackagePath": "staticwebassets\\2.eb0a2210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\20.2d4f1077.jpg",
+      "PackagePath": "staticwebassets\\20.2d4f1077.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\20.98452ac6.jpg",
+      "PackagePath": "staticwebassets\\20.98452ac6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\21.41411cb8.jpg",
+      "PackagePath": "staticwebassets\\21.41411cb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\21.a1309384.jpg",
+      "PackagePath": "staticwebassets\\21.a1309384.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\22.013696aa.jpg",
+      "PackagePath": "staticwebassets\\22.013696aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\22.2d87a7f2.jpg",
+      "PackagePath": "staticwebassets\\22.2d87a7f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\23.a1dd165f.jpg",
+      "PackagePath": "staticwebassets\\23.a1dd165f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\23.c23e634d.jpg",
+      "PackagePath": "staticwebassets\\23.c23e634d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\24.6634e3c4.jpg",
+      "PackagePath": "staticwebassets\\24.6634e3c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\24.ea82fe4e.jpg",
+      "PackagePath": "staticwebassets\\24.ea82fe4e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.28b3a065.jpg",
+      "PackagePath": "staticwebassets\\3.28b3a065.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.33f8e044.jpg",
+      "PackagePath": "staticwebassets\\3.33f8e044.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.3b3fac21.jpg",
+      "PackagePath": "staticwebassets\\3.3b3fac21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.41f9cfd7.jpg",
+      "PackagePath": "staticwebassets\\3.41f9cfd7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.5021e8d5.jpg",
+      "PackagePath": "staticwebassets\\3.5021e8d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.6a2c3f1d.jpg",
+      "PackagePath": "staticwebassets\\3.6a2c3f1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.8ea7603c.jpg",
+      "PackagePath": "staticwebassets\\3.8ea7603c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.b5c72342.jpg",
+      "PackagePath": "staticwebassets\\3.b5c72342.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\3.f7d0535a.jpg",
+      "PackagePath": "staticwebassets\\3.f7d0535a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.1f0d095f.jpg",
+      "PackagePath": "staticwebassets\\4.1f0d095f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.3ac6e5e2.jpg",
+      "PackagePath": "staticwebassets\\4.3ac6e5e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.4d71b621.jpg",
+      "PackagePath": "staticwebassets\\4.4d71b621.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.715daad8.jpg",
+      "PackagePath": "staticwebassets\\4.715daad8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.74bca1af.jpg",
+      "PackagePath": "staticwebassets\\4.74bca1af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.c6fac02b.jpg",
+      "PackagePath": "staticwebassets\\4.c6fac02b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.c80fd450.jpg",
+      "PackagePath": "staticwebassets\\4.c80fd450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.d9fa0938.jpg",
+      "PackagePath": "staticwebassets\\4.d9fa0938.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.eb756bc8.jpg",
+      "PackagePath": "staticwebassets\\4.eb756bc8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.eb916d16.jpg",
+      "PackagePath": "staticwebassets\\4.eb916d16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\4.febde36a.jpg",
+      "PackagePath": "staticwebassets\\4.febde36a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.3b339843.jpg",
+      "PackagePath": "staticwebassets\\5.3b339843.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.475fff9f.jpg",
+      "PackagePath": "staticwebassets\\5.475fff9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.52df0942.jpg",
+      "PackagePath": "staticwebassets\\5.52df0942.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.63892ef0.jpg",
+      "PackagePath": "staticwebassets\\5.63892ef0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.699ab732.jpg",
+      "PackagePath": "staticwebassets\\5.699ab732.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.9eb1c51c.jpg",
+      "PackagePath": "staticwebassets\\5.9eb1c51c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.acb967af.jpg",
+      "PackagePath": "staticwebassets\\5.acb967af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.b20cc1af.jpg",
+      "PackagePath": "staticwebassets\\5.b20cc1af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\5.dcae52cd.jpg",
+      "PackagePath": "staticwebassets\\5.dcae52cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.05012ab2.jpg",
+      "PackagePath": "staticwebassets\\6.05012ab2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.2e058322.jpg",
+      "PackagePath": "staticwebassets\\6.2e058322.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.51234897.jpg",
+      "PackagePath": "staticwebassets\\6.51234897.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.52e405b0.jpg",
+      "PackagePath": "staticwebassets\\6.52e405b0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.6d432a4d.jpg",
+      "PackagePath": "staticwebassets\\6.6d432a4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.8b93f482.jpg",
+      "PackagePath": "staticwebassets\\6.8b93f482.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.98d60de9.jpg",
+      "PackagePath": "staticwebassets\\6.98d60de9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.b51786dd.jpg",
+      "PackagePath": "staticwebassets\\6.b51786dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.bb089a04.jpg",
+      "PackagePath": "staticwebassets\\6.bb089a04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.bc9beabf.jpg",
+      "PackagePath": "staticwebassets\\6.bc9beabf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\6.dc0cedaf.jpg",
+      "PackagePath": "staticwebassets\\6.dc0cedaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.137f64ba.jpg",
+      "PackagePath": "staticwebassets\\7.137f64ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.157d71f0.jpg",
+      "PackagePath": "staticwebassets\\7.157d71f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.2c1f35a7.jpg",
+      "PackagePath": "staticwebassets\\7.2c1f35a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.3a072574.jpg",
+      "PackagePath": "staticwebassets\\7.3a072574.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.42390c90.jpg",
+      "PackagePath": "staticwebassets\\7.42390c90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.6e14abc4.jpg",
+      "PackagePath": "staticwebassets\\7.6e14abc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.7c9dbe56.jpg",
+      "PackagePath": "staticwebassets\\7.7c9dbe56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.84e2d1f0.jpg",
+      "PackagePath": "staticwebassets\\7.84e2d1f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.91b49901.jpg",
+      "PackagePath": "staticwebassets\\7.91b49901.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.a784a8df.jpg",
+      "PackagePath": "staticwebassets\\7.a784a8df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\7.b0816b06.jpg",
+      "PackagePath": "staticwebassets\\7.b0816b06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\8.1eafb14a.jpg",
+      "PackagePath": "staticwebassets\\8.1eafb14a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\8.4d947942.jpg",
+      "PackagePath": "staticwebassets\\8.4d947942.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\8.60c4ed16.jpg",
+      "PackagePath": "staticwebassets\\8.60c4ed16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\8.6d4176c2.jpg",
+      "PackagePath": "staticwebassets\\8.6d4176c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\8.7807e982.jpg",
+      "PackagePath": "staticwebassets\\8.7807e982.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\8.9ab1392b.jpg",
+      "PackagePath": "staticwebassets\\8.9ab1392b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\8.aa8a4dfb.jpg",
+      "PackagePath": "staticwebassets\\8.aa8a4dfb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\8.b71363bc.jpg",
+      "PackagePath": "staticwebassets\\8.b71363bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.295f1f18.jpg",
+      "PackagePath": "staticwebassets\\9.295f1f18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.3fc78232.jpg",
+      "PackagePath": "staticwebassets\\9.3fc78232.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.52e31794.jpg",
+      "PackagePath": "staticwebassets\\9.52e31794.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.54adfc08.jpg",
+      "PackagePath": "staticwebassets\\9.54adfc08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.7c7cf3f4.jpg",
+      "PackagePath": "staticwebassets\\9.7c7cf3f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.9c07a130.jpg",
+      "PackagePath": "staticwebassets\\9.9c07a130.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.ac997f0c.jpg",
+      "PackagePath": "staticwebassets\\9.ac997f0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.cd98a487.jpg",
+      "PackagePath": "staticwebassets\\9.cd98a487.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.d769bc32.jpg",
+      "PackagePath": "staticwebassets\\9.d769bc32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\9.f3190560.jpg",
+      "PackagePath": "staticwebassets\\9.f3190560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Bold.0b0ce0b4.woff2",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Bold.0b0ce0b4.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Bold.2262bede.woff2",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Bold.2262bede.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Bold.9ef42328.woff",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Bold.9ef42328.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Bold.b975f9e9.woff",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Bold.b975f9e9.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Medium.065d9e7f.woff",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Medium.065d9e7f.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Medium.44219530.woff2",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Medium.44219530.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Medium.5275db9e.woff2",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Medium.5275db9e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Medium.7866f919.woff",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Medium.7866f919.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Regular.03006b2d.woff2",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Regular.03006b2d.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Regular.3290e240.woff",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Regular.3290e240.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Regular.34060cd4.woff",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Regular.34060cd4.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\RobotoCondensed-Regular.7970a12f.woff2",
+      "PackagePath": "staticwebassets\\RobotoCondensed-Regular.7970a12f.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\accordion.217b86e0.js",
+      "PackagePath": "staticwebassets\\accordion.217b86e0.js"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\accordion.28b9d070.css",
+      "PackagePath": "staticwebassets\\accordion.28b9d070.css"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\accordion.2bcd16df.css",
+      "PackagePath": "staticwebassets\\accordion.2bcd16df.css"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\accordion.9203f561.js",
+      "PackagePath": "staticwebassets\\accordion.9203f561.js"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\accordion.93f80d54.js",
+      "PackagePath": "staticwebassets\\accordion.93f80d54.js"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\accordion.c23daf70.js",
+      "PackagePath": "staticwebassets\\accordion.c23daf70.js"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\accordion.html",
+      "PackagePath": "staticwebassets\\accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\alerts.html",
+      "PackagePath": "staticwebassets\\alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\analytics.html",
+      "PackagePath": "staticwebassets\\analytics.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\badge.html",
+      "PackagePath": "staticwebassets\\badge.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\baidu.044ba571.svg",
+      "PackagePath": "staticwebassets\\baidu.044ba571.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\baidu.36aded09.svg",
+      "PackagePath": "staticwebassets\\baidu.36aded09.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\blackberry.62f658a6.svg",
+      "PackagePath": "staticwebassets\\blackberry.62f658a6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\blackberry.beeb9340.svg",
+      "PackagePath": "staticwebassets\\blackberry.beeb9340.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\blank.html",
+      "PackagePath": "staticwebassets\\blank.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\body-dark.c37b07db.png",
+      "PackagePath": "staticwebassets\\body-dark.c37b07db.png"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\body-dark.ffcb8db9.png",
+      "PackagePath": "staticwebassets\\body-dark.ffcb8db9.png"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\body.1416b330.jpg",
+      "PackagePath": "staticwebassets\\body.1416b330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\body.628e280f.jpg",
+      "PackagePath": "staticwebassets\\body.628e280f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\breadcrumb.html",
+      "PackagePath": "staticwebassets\\breadcrumb.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\button-groups.html",
+      "PackagePath": "staticwebassets\\button-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\buttons.html",
+      "PackagePath": "staticwebassets\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\calendar.html",
+      "PackagePath": "staticwebassets\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\card.html",
+      "PackagePath": "staticwebassets\\card.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\carousel.html",
+      "PackagePath": "staticwebassets\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\charts.html",
+      "PackagePath": "staticwebassets\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\china.3138954f.svg",
+      "PackagePath": "staticwebassets\\china.3138954f.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\china.38bde952.svg",
+      "PackagePath": "staticwebassets\\china.38bde952.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\china.7724c0f9.svg",
+      "PackagePath": "staticwebassets\\china.7724c0f9.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\chrome.37b75211.svg",
+      "PackagePath": "staticwebassets\\chrome.37b75211.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\chrome.c8b6060b.svg",
+      "PackagePath": "staticwebassets\\chrome.c8b6060b.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\collapse.html",
+      "PackagePath": "staticwebassets\\collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\coming-soon.2836cc7b.svg",
+      "PackagePath": "staticwebassets\\coming-soon.2836cc7b.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\coming-soon.db7e0b38.svg",
+      "PackagePath": "staticwebassets\\coming-soon.db7e0b38.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\coming-soon.html",
+      "PackagePath": "staticwebassets\\coming-soon.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\contacts.html",
+      "PackagePath": "staticwebassets\\contacts.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\cover.61049959.jpeg",
+      "PackagePath": "staticwebassets\\cover.61049959.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\cover.a77d2aef.jpeg",
+      "PackagePath": "staticwebassets\\cover.a77d2aef.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\crm.html",
+      "PackagePath": "staticwebassets\\crm.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\dropdown.html",
+      "PackagePath": "staticwebassets\\dropdown.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\edge.82bfc76b.svg",
+      "PackagePath": "staticwebassets\\edge.82bfc76b.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\edge.8fdc8b7d.svg",
+      "PackagePath": "staticwebassets\\edge.8fdc8b7d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\email-marketing.html",
+      "PackagePath": "staticwebassets\\email-marketing.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\empty.html",
+      "PackagePath": "staticwebassets\\empty.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\england.1149d418.svg",
+      "PackagePath": "staticwebassets\\england.1149d418.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\england.6cdae957.svg",
+      "PackagePath": "staticwebassets\\england.6cdae957.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\england.db438d89.svg",
+      "PackagePath": "staticwebassets\\england.db438d89.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\error.html",
+      "PackagePath": "staticwebassets\\error.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\faq.html",
+      "PackagePath": "staticwebassets\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\favicon.27b2c5ca.ico",
+      "PackagePath": "staticwebassets\\favicon.27b2c5ca.ico"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\favicon.7db16b69.ico",
+      "PackagePath": "staticwebassets\\favicon.7db16b69.ico"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\figures.html",
+      "PackagePath": "staticwebassets\\figures.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\file-manager.html",
+      "PackagePath": "staticwebassets\\file-manager.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\firefox.4e5f016d.svg",
+      "PackagePath": "staticwebassets\\firefox.4e5f016d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\firefox.cbb8e2d1.svg",
+      "PackagePath": "staticwebassets\\firefox.cbb8e2d1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\fluid.5c4b4474.svg",
+      "PackagePath": "staticwebassets\\fluid.5c4b4474.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\fluid.6190863e.svg",
+      "PackagePath": "staticwebassets\\fluid.6190863e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\forgot-password.html",
+      "PackagePath": "staticwebassets\\forgot-password.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\form-components.html",
+      "PackagePath": "staticwebassets\\form-components.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\form-elements.html",
+      "PackagePath": "staticwebassets\\form-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\form-layouts.html",
+      "PackagePath": "staticwebassets\\form-layouts.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\form-templates.html",
+      "PackagePath": "staticwebassets\\form-templates.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\form-validation.html",
+      "PackagePath": "staticwebassets\\form-validation.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\france.3dc7d339.svg",
+      "PackagePath": "staticwebassets\\france.3dc7d339.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\france.6c5516bf.svg",
+      "PackagePath": "staticwebassets\\france.6c5516bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\france.ff17aae7.svg",
+      "PackagePath": "staticwebassets\\france.ff17aae7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\germany.2bf34b2e.svg",
+      "PackagePath": "staticwebassets\\germany.2bf34b2e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\germany.72ff1e78.svg",
+      "PackagePath": "staticwebassets\\germany.72ff1e78.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\germany.ec228dbe.svg",
+      "PackagePath": "staticwebassets\\germany.ec228dbe.svg"
     },
     {
       "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\icon-512.png",
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\icons.html",
+      "PackagePath": "staticwebassets\\icons.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\ie.00fe1d56.svg",
+      "PackagePath": "staticwebassets\\ie.00fe1d56.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\ie.5ad04b13.svg",
+      "PackagePath": "staticwebassets\\ie.5ad04b13.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\images.html",
+      "PackagePath": "staticwebassets\\images.html"
+    },
+    {
       "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\input-groups.html",
+      "PackagePath": "staticwebassets\\input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\invoice.html",
+      "PackagePath": "staticwebassets\\invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\japan.4ad076e1.svg",
+      "PackagePath": "staticwebassets\\japan.4ad076e1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\japan.a01984b0.svg",
+      "PackagePath": "staticwebassets\\japan.a01984b0.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\japan.a0397d98.svg",
+      "PackagePath": "staticwebassets\\japan.a0397d98.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\kai.938808f4.svg",
+      "PackagePath": "staticwebassets\\kai.938808f4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\kai.e545bec4.svg",
+      "PackagePath": "staticwebassets\\kai.e545bec4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\listgroup.html",
+      "PackagePath": "staticwebassets\\listgroup.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\mail.html",
+      "PackagePath": "staticwebassets\\mail.html"
+    },
+    {
       "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\manifest.json",
       "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\maps.html",
+      "PackagePath": "staticwebassets\\maps.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\messages.html",
+      "PackagePath": "staticwebassets\\messages.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\modal.html",
+      "PackagePath": "staticwebassets\\modal.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\nav.html",
+      "PackagePath": "staticwebassets\\nav.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\offcanvas.html",
+      "PackagePath": "staticwebassets\\offcanvas.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\opera.d2460ff5.svg",
+      "PackagePath": "staticwebassets\\opera.d2460ff5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\opera.efc56a57.svg",
+      "PackagePath": "staticwebassets\\opera.efc56a57.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\pagination.html",
+      "PackagePath": "staticwebassets\\pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\photos.html",
+      "PackagePath": "staticwebassets\\photos.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\placeholders.html",
+      "PackagePath": "staticwebassets\\placeholders.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\popovers.html",
+      "PackagePath": "staticwebassets\\popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\pricing-table.html",
+      "PackagePath": "staticwebassets\\pricing-table.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\progress.html",
+      "PackagePath": "staticwebassets\\progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\project-management.html",
+      "PackagePath": "staticwebassets\\project-management.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\qq.6de8803d.svg",
+      "PackagePath": "staticwebassets\\qq.6de8803d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\qq.d7c7e14c.svg",
+      "PackagePath": "staticwebassets\\qq.d7c7e14c.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\safari.ddd4f3b2.svg",
+      "PackagePath": "staticwebassets\\safari.ddd4f3b2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\safari.ed4faae7.svg",
+      "PackagePath": "staticwebassets\\safari.ed4faae7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\samsung.23620511.svg",
+      "PackagePath": "staticwebassets\\samsung.23620511.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\samsung.a7fdd5a9.svg",
+      "PackagePath": "staticwebassets\\samsung.a7fdd5a9.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\search-results.html",
+      "PackagePath": "staticwebassets\\search-results.html"
     },
     {
       "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\service-worker.js",
@@ -27,6 +1059,78 @@
     {
       "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\service-worker.published.js",
       "PackagePath": "staticwebassets\\service-worker.published.js"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\spinners.html",
+      "PackagePath": "staticwebassets\\spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\tables.html",
+      "PackagePath": "staticwebassets\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\team.html",
+      "PackagePath": "staticwebassets\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\thumbnail.33aa17a7.svg",
+      "PackagePath": "staticwebassets\\thumbnail.33aa17a7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\thumbnail.b640a723.svg",
+      "PackagePath": "staticwebassets\\thumbnail.b640a723.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\toasts.html",
+      "PackagePath": "staticwebassets\\toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\todo-lists.html",
+      "PackagePath": "staticwebassets\\todo-lists.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\tooltips.html",
+      "PackagePath": "staticwebassets\\tooltips.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\typography.html",
+      "PackagePath": "staticwebassets\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\uc.63a31b48.svg",
+      "PackagePath": "staticwebassets\\uc.63a31b48.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\uc.f926b5a1.svg",
+      "PackagePath": "staticwebassets\\uc.f926b5a1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\us.d9465b2c.svg",
+      "PackagePath": "staticwebassets\\us.d9465b2c.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\us.f0f18e18.svg",
+      "PackagePath": "staticwebassets\\us.f0f18e18.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\user-connections.html",
+      "PackagePath": "staticwebassets\\user-connections.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\user-photos.html",
+      "PackagePath": "staticwebassets\\user-photos.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\user-preferences.html",
+      "PackagePath": "staticwebassets\\user-preferences.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\user-profile.html",
+      "PackagePath": "staticwebassets\\user-profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Rober\\source\\repos\\AdminTemplate\\Client\\wwwroot\\user-timeline.html",
+      "PackagePath": "staticwebassets\\user-timeline.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminTemplate.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -4,6 +4,7 @@ C:\Users\Rober\source\repos\AdminTemplate\Server\obj\Debug\net8.0\AdminTemplate.
 C:\Users\Rober\source\repos\AdminTemplate\Server\obj\Debug\net8.0\AdminTemplate.Server.AssemblyInfo.cs
 C:\Users\Rober\source\repos\AdminTemplate\Server\obj\Debug\net8.0\AdminTemplate.Server.csproj.CoreCompileInputs.cache
 C:\Users\Rober\source\repos\AdminTemplate\Server\obj\Debug\net8.0\AdminTemplate.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rober\source\repos\AdminTemplate\Server\obj\Debug\net8.0\AdminTemplate.Server.sourcelink.json
 C:\Users\Rober\source\repos\AdminTemplate\Server\bin\Debug\net8.0\AdminTemplate.Client.staticwebassets.runtime.json
 C:\Users\Rober\source\repos\AdminTemplate\Server\bin\Debug\net8.0\AdminTemplate.Client.staticwebassets.endpoints.json
 C:\Users\Rober\source\repos\AdminTemplate\Server\bin\Debug\net8.0\appsettings.Development.json
